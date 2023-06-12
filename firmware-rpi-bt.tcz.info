@@ -14,4 +14,7 @@ Change-log:     2017/03/12 first version
                 2017/08/08 (pi3/0 firmware MD5: 85801286c2253de0741310b2789bf187)
                 2018/03/17 (Add pi3b+ firmware MD5: ec75853caa3fa18a86fa4cbcb5242d54)
                 2020/01/20 Update from RPI
-Current:        2020/05/18 Post-Sweyntooth update of BCM43430A1 and BCM4345C0 hcds
+                2020/05/18 Post-Sweyntooth update of BCM43430A1 and BCM4345C0 hcds
+                2020/11/24 Update BCM4345C0 hcd for BLE corrections
+                2021/07/17 Update BT firmware to latest, includes Spectra Fixes
+Current:        2021/11/13 Add firmware for Zero2W
